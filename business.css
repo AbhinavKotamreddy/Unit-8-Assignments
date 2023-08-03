@@ -1,0 +1,36 @@
+#title {
+    background: teal;
+    color: beige;
+    padding: 30px;
+    text-align: center;
+}
+
+.card {
+    background-color: beige;
+    width: 400px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: hotpink;
+}
+
+h2 {
+    color: limegreen;
+}
+
+p {
+    color: brown;
+}
+
+/* Challenge */
+footer {
+    color: beige;
+    padding: 20px;
+    text-align: center;
+    background: teal;
+    font-size: 20px;
+    margin-top: 20px;
+}
